@@ -1,0 +1,265 @@
+/*blue #2874AA
+*/#main{background:#2874AA;
+          width: 600px;
+          height: 660px;
+          margin: 10px auto;
+          position: relative;
+          color: white; }
+
+  #content{width: 580px;
+           height:640px;
+            position: absolute;
+            font-family: arial;
+
+            left: 10px;
+           top: 10px;
+           border:solid white 1px;
+       } 
+
+       .block{display: inline-block;}
+
+    .sheight{height: 35px}
+   .uzunluq{width: 520px}
+
+   .bold{font-weight: bold;}
+   .basliq p{margin: 12px 91px}
+   .basliq{position: relative;
+   	        top: 0px;
+   	        left: 30px;
+            display: inline-block;
+        border-bottom: solid white 1px; }
+
+   .sehifeler{position: relative;
+            left: 30px;
+            top: 0px;
+   }
+   .solsehife{position: absolute;
+   	top:0px;
+     left: 10px;
+     
+   }
+     .metn p{font-size: 14px;
+display: inline-block;}
+/*.solsehife p{margin-top: 7px;}*/
+
+
+.asagi{padding: 5px;
+  border-radius: 100%;
+  border:1px solid white;
+ position: relative;
+ background: white;
+ top: 4px;
+ left: 5px;
+ color: #2874AA
+
+
+}
+.daire{padding: 5px;
+  border-radius: 100%;
+  border:1px solid white;
+ 
+ background: white;
+   color: #2874AA}
+
+   .kvadrat{padding: 5px;
+
+  border:1px solid white;
+ 
+ background:#2874AA ;
+   color: white}
+
+.asagi p{margin: auto}
+.yazi{position: relative;
+  bottom: -4px;
+  left: 0px;
+/*width: 20px;
+height: 30px;*/
+}
+.ortasehife{position: absolute;
+  width: 200px;
+    top:0px;
+     left: 155px;
+    
+
+}
+.sol{position: absolute;
+left: 3px;
+top: 3px}
+.sol p{display: inline-block;}
+.bir{position:absolute;
+left: 29px;
+top: 3px;}
+.bir p{display: inline-block;}
+.iki{position:absolute;
+left: 55px;
+top: 3px;}
+.iki p{display: inline-block;}
+.uc{position:absolute;
+left: 81px;
+top: 3px;}
+.uc p{display: inline-block;}
+
+.dord{padding: 5px;
+  border:1px solid #2874AA;
+ 
+ background:#2874AA ;
+   color: white;
+   position:absolute;
+left: 107px;
+top: 3px;
+
+
+}
+.dord p{display: inline-block;}
+
+.bes{position:absolute;
+left: 137px;
+top: 3px;}
+.bes p{display: inline-block;}
+.sag{position: absolute;
+left: 172px;
+top: 3px}
+.sag p{display: inline-block;}
+
+.yazi{position: relative;
+  bottom: -4px;
+  left: 0px;}
+  .asagi{padding: 5px;
+  border-radius: 100%;
+  border:1px solid white;
+ position: relative;
+ background: white;
+ top: 4px;
+ left: 5px;
+ color: #2874AA
+
+
+}
+
+.sagsehife{
+  position: absolute;
+  top: 0px;
+  left: 407px;
+  
+  width: 100px;
+}
+.yazir{position: relative;
+  bottom: -4px;
+  left: -4px;}
+  .asagir{padding: 5px;
+  border-radius: 100%;
+  border:1px solid white;
+ position: relative;
+ background: white;
+ top: 4px;
+ left: 5px;
+ color: #2874AA
+
+
+}
+.news{height: 530px;
+
+position: absolute;
+left: 30px;
+top: 85px;}
+.xeberler{width: 100%;
+ 
+  height: calc(500/3 * 1px);
+  border: 1px solid white;
+
+}
+.xeberlerbir{
+  position: absolute;
+  top: 0px;
+  left:0px;
+}
+.xeberleriki{
+  position: absolute;
+  top: 182px;
+  left:0px;
+}
+.xeberleruc{
+  position: absolute;
+  top: 363px;
+  left:0px;
+}s
+.xeberlerust{width: 100%;
+background: tomato;
+position: absolute;
+top: 0px;
+left: 0px;}
+.xeberlerort{width: 100%;
+  height: 95px;
+border-top:1px white solid;
+border-bottom: 1px white solid;
+position: absolute;
+top: 35px;
+left: 0px;
+
+}
+.xeberleralt{width: 100%;
+
+position: absolute;
+bottom: 0px;
+left: 0px}
+.padding{
+  padding:10px;
+}
+.xeberlerust h1{
+  float:left;
+}
+.xeberlerust span{
+  display: inline-block;
+  float:right;
+  border-left:1px solid lightgray;
+  padding:10px;
+
+}
+.image{
+  margin-right:10px;
+}
+.btns{
+  margin-left:10px;
+}
+.image , .btns{
+  width:75px;
+  height:75px;
+display: inline-block;}
+
+.info{
+  width:102px;
+  height:75px;
+  display: inline-block;
+}
+.border{
+  border:1px solid white;
+  border-radius:0px;
+}
+.left{float: left;}
+.clear{clear: both;}
+.image{position: absolute;
+  left: 10px;
+  top: 7px;
+}
+.btns{
+  position: absolute;
+  right: 10px;
+  top: 7px;
+}
+.info{position: absolute;
+  top: 7px;
+  left: 92px;
+  width:333px;
+  height:75px;
+}
+.zerokv{
+
+}
+.sagsehifem{
+  position: absolute;
+  top: 0px;
+  left: 390px;
+  
+  width: 130px;}
+  .xeberleralt h1{float: left;}
+
